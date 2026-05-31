@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780222933635-5ad01982s",
+  "providerId": "claude",
+  "title": "帮我优化一下这个文件的显示格式",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780222933659,
+  "updatedAt": 1780223256941,
+  "lastResponseAt": 1780223256941,
+  "sessionId": "73a50299-d99a-49c0-955b-ab1898271c8f",
+  "providerState": {
+    "providerSessionId": "73a50299-d99a-49c0-955b-ab1898271c8f"
+  },
+  "currentNote": "2026.5.31.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 824,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21568,
+    "contextWindow": 200000,
+    "contextTokens": 22392,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}
