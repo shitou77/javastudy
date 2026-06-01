@@ -4,21 +4,21 @@
   "title": "帮我优化一下这个文件的显示格式",
   "titleGenerationStatus": "failed",
   "createdAt": 1780222933659,
-  "updatedAt": 1780223256941,
-  "lastResponseAt": 1780223256941,
+  "updatedAt": 1780303582170,
+  "lastResponseAt": 1780303582170,
   "sessionId": "73a50299-d99a-49c0-955b-ab1898271c8f",
   "providerState": {
     "providerSessionId": "73a50299-d99a-49c0-955b-ab1898271c8f"
   },
-  "currentNote": "2026.5.31.md",
+  "currentNote": "CSS.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 824,
+    "inputTokens": 8470,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 21568,
+    "cacheReadInputTokens": 22592,
     "contextWindow": 200000,
-    "contextTokens": 22392,
-    "percentage": 11,
+    "contextTokens": 31062,
+    "percentage": 16,
     "contextWindowIsAuthoritative": true
   }
 }
