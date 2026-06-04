@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780562260365-9zvr753n5",
+  "providerId": "claude",
+  "title": "你是一名JavaScript大师，现在在这个文件里给我系统性的通俗易懂的讲解一下JavaScript...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1780562260368,
+  "updatedAt": 1780562601370,
+  "lastResponseAt": 1780562601370,
+  "sessionId": "7a419b43-c2a7-4e47-a11e-098da5db1914",
+  "providerState": {
+    "providerSessionId": "7a419b43-c2a7-4e47-a11e-098da5db1914"
+  },
+  "currentNote": "JS知识大全.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 11579,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21056,
+    "contextWindow": 200000,
+    "contextTokens": 32635,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}
