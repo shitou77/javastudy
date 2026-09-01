@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788003984342-8e3jzkycf",
+  "providerId": "claude",
+  "title": "Debug missing Redis assets PNG file",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788003984342,
+  "updatedAt": 1788004043303,
+  "lastResponseAt": 1788004043303,
+  "sessionId": "239d32b9-e1c4-44a5-8f62-a55b89d52d9f",
+  "providerState": {
+    "providerSessionId": "239d32b9-e1c4-44a5-8f62-a55b89d52d9f"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 204,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36992,
+    "contextWindow": 200000,
+    "contextTokens": 37196,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}
